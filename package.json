@@ -1,0 +1,23 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Study project in learning Node.js Basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielOsadchenko/node-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielOsadchenko/node-basic/issues"
+  },
+  "homepage": "https://github.com/DanielOsadchenko/node-basic#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
