@@ -17,7 +17,7 @@
     "url": "https://github.com/DanielOsadchenko/node-basic/issues"
   },
   "homepage": "https://github.com/DanielOsadchenko/node-basic#readme",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^3.0.1"
   }
 }
